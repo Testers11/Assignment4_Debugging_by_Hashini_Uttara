@@ -23,7 +23,7 @@ import hotel.utils.IOUtils;
 import java.util.Date;
 import java.util.List;
 
-public class HotelTest {
+public class TestCase {
 
     public static void main(String[] args) throws Exception {
 
